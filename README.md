@@ -1,7 +1,7 @@
 <p align="center">
 <picture>
-    <source srcset="https://raw.githubusercontent.com/godofmemessol/gome-white-paper/main/nandhi.png?token=GHSAT0AAAAAACP2CGPZD7QXBJCC5N4JDYTOZPZ4TNA" media="(prefers-color-scheme: dark)">
-    <img src="https://raw.githubusercontent.com/godofmemessol/gome-white-paper/main/nandhi.png?token=GHSAT0AAAAAACP2CGPZD7QXBJCC5N4JDYTOZPZ4TNA" alt="NANDHI">
+    <source srcset="https://github.com/godofmemessol/gome-white-paper/blob/main/nandhi.png?raw=true" media="(prefers-color-scheme: dark)">
+    <img src="https://github.com/godofmemessol/gome-white-paper/blob/main/nandhi.png?raw=true" alt="NANDHI">
 </picture>
 </p>
 
