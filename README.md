@@ -51,25 +51,25 @@ The tokenomics of the GOME Token are designed to incentivize participation, prov
 
 #### Token Distribution
 - **Total Supply:** 1,000,000,000 GOME
-- **Initial Circulating Supply:** 200,000,000 GOME (20% of total supply)
 
 #### Allocation
-- **Public Sale:** 30%
-- **Team and Advisors:** 15%
-- **Ecosystem Development:** 20%
-- **Liquidity Pool:** 15%
-- **Community:** 20%
+- **Public Sale:** 35%
+- **Team, Advisors, Marketing:** 10%
+- **CEX:** 10%
+- **Liquidity Pool:** 35%
+- **Community:** 10%
 
-#### Token Lockup Schedule
-- **Public Sale Allocation:** Tokens allocated for public sale will be subject to a lockup period. 20% of the tokens will be unlocked immediately after the Token Generation Event (TGE), with the remaining 80% subject to linear unlocking over 6 months.
+### Token Lockup Schedule
 
-- **Team and Advisors Allocation:** Tokens allocated for team and advisors will be subject to a lockup period. 20% of the tokens will be unlocked after the TGE, with the remaining 80% subject to linear unlocking over 12 months.
+- **Public Sale Allocation:** Tokens allocated for the public sale will be fully unlocked at the Token Generation Event (TGE).
 
-- **Ecosystem Development Allocation:** Tokens allocated for ecosystem development will be subject to a lockup period. 20% of the tokens will be unlocked after the TGE, with the remaining 80% subject to linear unlocking over 24 months.
+- **Team, Advisors, Marketing Allocation:** 20% of tokens allocated for the team, advisors, and marketing will be unlocked at the Token Generation Event (TGE), with the remaining 80% unlocking linearly over 4 months.
 
-- **Liquidity Pool Allocation:** Tokens allocated for liquidity pool will be subject to a lockup period. 20% of the tokens will be unlocked after the TGE, with the remaining 80% subject to linear unlocking over 18 months.
+- **CEX Allocation:** Tokens allocated for centralized exchanges (CEX) will be fully unlocked at the Token Generation Event (TGE).
 
-- **Community:** Tokens allocated for marketing and partnerships will be subject to a lockup period. 20% of the tokens will be unlocked after the TGE, with the remaining 80% subject to linear unlocking over 6 months.
+- **Liquidity Pool Allocation:** Tokens allocated for the liquidity pool will be fully unlocked at the Token Generation Event (TGE).
+
+- **Community Allocation:** Tokens allocated for the community will be fully unlocked at the Token Generation Event (TGE).
 
 
 ## Token Utility
